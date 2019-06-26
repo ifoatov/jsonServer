@@ -3,7 +3,7 @@
     {
         "id": 1,
         "title": "hello",
-        "imageUrl": "https://hello.com/img_/hello_logo_white.png"
+        "imageUrl": "https://avatars.yandex.net/get-music-content/119639/9c2e2d74.p.36800/400x400"
     },
     {
         "id": 2,
@@ -14,6 +14,11 @@
         "id": 3,
         "title": "massive view controller",
         "imageUrl": "https://cdn-images-1.medium.com/max/800/1*cE0VwnQLwr8xfJhEe062Tw.jpeg"
-    }
+    },
+    {
+      "id": 4,
+      "title": "Post with bad link",
+      "imageUrl": "https://localhost"
+  },
   ]
 }
