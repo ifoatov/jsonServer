@@ -19,6 +19,6 @@
       "id": 4,
       "title": "Post with bad link",
       "imageUrl": "https://localhost"
-  },
+    }
   ]
 }
